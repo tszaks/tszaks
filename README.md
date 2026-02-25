@@ -35,3 +35,32 @@ TypeScript, JavaScript, Node.js, Swift, Java, Python, PostgreSQL, Docker, Railwa
 
 - GitHub: [@tszaks](https://github.com/tszaks)
 - Email: tyler@szakacsmedia.com
+
+## Quickstart TL;DR
+
+This repository is the GitHub profile README for `@tszaks`.
+
+- Edit `README.md`
+- Commit to `main`
+- GitHub renders it on the profile page automatically
+
+## How It Works (TL;DR)
+
+- GitHub special-cases a repository named exactly like your username
+- The root `README.md` becomes the public profile overview
+
+## LLM Quick Copy
+
+Use the copy button on this code block in GitHub.
+
+```txt
+Repo: tszaks (profile README)
+Goal: Maintain GitHub profile content.
+Setup:
+1) Edit README.md
+2) Commit and push to main
+Use:
+- Keep project list, bio, and contact info current
+How it works:
+- Username-matching repo README is rendered as the profile landing page
+```
