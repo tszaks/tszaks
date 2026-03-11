@@ -1,6 +1,6 @@
 # Tyler Szakacs
 
-I build native iOS products, local-first automation tools, MCP servers, and the systems around them.
+I build websites, native iOS products, local-first automation tools, MCP servers, and the systems around them.
 
 Most of my day-to-day work lives in private product and client repos. I still keep a growing part of the tooling open source. Private work is named here for context. Only public repos are linked.
 
@@ -9,7 +9,7 @@ Most of my day-to-day work lives in private product and client repos. I still ke
 - AskVero: a private SwiftUI iOS app, its web/services layer, feedback workflow, OSS eval lab, and supporting archive/migration repos.
 - Preflight: a private App Store review-readiness platform, with public install/distribution tooling.
 - Pallium: a private iOS notes app focused on fast capture and AI-assisted organization.
-- Client and company web work across private repos for Szakacs Media, GNA Works, Marpe Nutrition, and the Marpe Detox Guide.
+- Websites, landing pages, and web platforms across private repos for Szakacs Media, GNA Works, Marpe Nutrition, and the Marpe Detox Guide.
 - Product experiments, healthcare prototypes, and internal systems across Orion Clinical Intelligence, Artrio, Plaid tooling, workflow automation, SWE evals, and ops repos.
 
 ## Open Source
