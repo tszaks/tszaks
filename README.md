@@ -33,10 +33,6 @@ Most of my day-to-day work lives in private product and client repos. This page 
 - [codex-memory](https://github.com/tszaks/codex-memory), [codex-sessions](https://github.com/tszaks/codex-sessions), [codex-discord-bridge](https://github.com/tszaks/codex-discord-bridge), and [sourcekit-lsp-marketplace](https://github.com/tszaks/sourcekit-lsp-marketplace)
 - [linkedin-indexer](https://github.com/tszaks/linkedin-indexer), [homebrew-tap](https://github.com/tszaks/homebrew-tap), and [homebrew-preflight](https://github.com/tszaks/homebrew-preflight)
 
-### Forks And Upstream Work
-
-- [cli](https://github.com/tszaks/cli) and [symphony](https://github.com/tszaks/symphony)
-
 ## Stack
 
 Swift, SwiftUI, TypeScript, JavaScript, Go, Python, Svelte, Astro, PostgreSQL, Railway, GitHub Actions.
