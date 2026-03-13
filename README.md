@@ -12,15 +12,6 @@ Most of my day-to-day work lives in private product and client repos. This page 
 - Design release systems, App Store operations, and review-readiness tooling.
 - Turn messy manual processes into simple, repeatable systems.
 
-## What I Can Do
-
-- SwiftUI and iOS product development
-- TypeScript, JavaScript, Go, and Python tooling
-- Svelte and Astro websites
-- AI and agent workflow automation
-- Internal tools, integrations, and ops systems
-- App Store release and review-readiness workflows
-
 ## Selected Public Work
 
 ### MCP Servers And Local Automation
@@ -29,7 +20,6 @@ Most of my day-to-day work lives in private product and client repos. This page 
 - [gmail-multi-inbox-mcp](https://github.com/tszaks/gmail-multi-inbox-mcp), [gmail-mcp-server](https://github.com/tszaks/gmail-mcp-server), and [app-store-connect-mcp](https://github.com/tszaks/app-store-connect-mcp)
 
 ### Developer Tools And Workflow Infrastructure
-
 - [codex-memory](https://github.com/tszaks/codex-memory), [codex-sessions](https://github.com/tszaks/codex-sessions), [codex-discord-bridge](https://github.com/tszaks/codex-discord-bridge), and [sourcekit-lsp-marketplace](https://github.com/tszaks/sourcekit-lsp-marketplace)
 - [linkedin-indexer](https://github.com/tszaks/linkedin-indexer), [homebrew-tap](https://github.com/tszaks/homebrew-tap), and [homebrew-preflight](https://github.com/tszaks/homebrew-preflight)
 
