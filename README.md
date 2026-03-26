@@ -1,35 +1,38 @@
 # Tyler Szakacs
 
-I build websites, native iOS apps, internal tools, and automation systems.
+I build AI agent tooling, MCP servers, and evaluation environments.
 
-Most of my day-to-day work lives in private product and client repos. This page is the short version of what I do, what I can help with, and some of the public work that shows how I build.
+Most of my day-to-day work lives in private product repos. Publicly, the clearest slice of my work is the tooling and infrastructure I have been building around agent workflows, local integrations, and developer systems. I use coding agents heavily and care a lot about where they fail, why they fail, and how to build cleaner interfaces around them.
 
-## What I Do
+## Focus
 
-- Build native iOS products and the web/services layers that support them.
-- Build websites, landing pages, and web platforms for brands, products, and campaigns.
-- Build local-first automation, MCP servers, and internal tools for real workflows.
-- Design release systems, App Store operations, and review-readiness tooling.
-- Turn messy manual processes into simple, repeatable systems.
+- AI agent tooling and MCP servers
+- Evaluation harnesses and model failure analysis
+- Local-first automation for real workflows
+- Swift and Apple-platform developer tooling
 
 ## Selected Public Work
 
-### MCP Servers And Local Automation
+### Agent tooling and integrations
 
-- [safari-mcp](https://github.com/tszaks/safari-mcp), [reminders-mcp](https://github.com/tszaks/reminders-mcp), [icloud-calendar-mcp](https://github.com/tszaks/icloud-calendar-mcp), [apple-notes-mcp](https://github.com/tszaks/apple-notes-mcp), and [multimodal-imessage-mcp](https://github.com/tszaks/multimodal-imessage-mcp)
-- [gmail-multi-inbox-mcp](https://github.com/tszaks/gmail-multi-inbox-mcp), [gmail-mcp-server](https://github.com/tszaks/gmail-mcp-server), and [app-store-connect-mcp](https://github.com/tszaks/app-store-connect-mcp)
+- [safari-mcp](https://github.com/tszaks/safari-mcp) - Local Safari control, extraction, and screenshots for agent workflows
+- [multimodal-imessage-mcp](https://github.com/tszaks/multimodal-imessage-mcp) - iMessage access, conversation search, and attachment handling
+- [app-store-connect-mcp](https://github.com/tszaks/app-store-connect-mcp) - App Store Connect automation and release operations
+- [gmail-multi-inbox-mcp](https://github.com/tszaks/gmail-multi-inbox-mcp) - Multi-account Gmail integration with built-in OAuth onboarding
 
-### Developer Tools And Workflow Infrastructure
-- [codex-memory](https://github.com/tszaks/codex-memory), [codex-sessions](https://github.com/tszaks/codex-sessions), [codex-discord-bridge](https://github.com/tszaks/codex-discord-bridge), and [sourcekit-lsp-marketplace](https://github.com/tszaks/sourcekit-lsp-marketplace)
-- [linkedin-indexer](https://github.com/tszaks/linkedin-indexer), [homebrew-tap](https://github.com/tszaks/homebrew-tap), and [homebrew-preflight](https://github.com/tszaks/homebrew-preflight)
+### Developer infrastructure
+
+- [codex-memory](https://github.com/tszaks/codex-memory) - CLI-first codebase memory for risk, co-change, and decision context
+- [codex-sessions](https://github.com/tszaks/codex-sessions) - Small CLI for seeing which Codex sessions are live on your machine
+- [sourcekit-lsp-marketplace](https://github.com/tszaks/sourcekit-lsp-marketplace) - Swift and Objective-C support for Claude Code via SourceKit-LSP
 
 ## Stack
 
-Swift, SwiftUI, TypeScript, JavaScript, Go, Python, Svelte, Astro, PostgreSQL, Railway, GitHub Actions.
+TypeScript, JavaScript, Python, Go, Swift, SwiftUI, SQL, APIs, Railway, Xcode.
 
 ## Working Style
 
-I like simple systems, root-cause debugging, and shipping tools that are useful in real workflows.
+I like simple systems, root-cause debugging, and tooling that has to hold up in real workflows.
 
 ## Contact
 
