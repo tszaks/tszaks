@@ -1,40 +1,47 @@
 # Tyler Szakacs
 
-I build AI-powered products and the tooling that makes them work. Based in Philadelphia.
+I build AI products and the infrastructure that makes agents useful: MCP servers, agent-first CLIs, and iOS apps. Based in Philadelphia.
 
-Most of my active work lives in private repos — but the public slice covers the MCP servers, agent infrastructure, and developer tooling I ship around agent workflows, local Apple integrations, and automation systems.
+Most of my active work lives in private repos. The public slice below covers the tooling I ship around agent workflows, local Apple integrations, and developer automation.
 
 ## Products
 
-**[Vero](https://askvero.app)** — A finance app for iOS. Connect your bank accounts through Plaid and ask plain questions about your money in plain English. Built in Swift/SwiftUI with Claude handling the reasoning. Live on the App Store.
+**[Vero](https://askvero.app)** is a personal finance app for iOS. Connect your accounts through Plaid and ask questions about your money in plain English. Swift/SwiftUI, with Claude handling the reasoning. Live on the App Store.
 
-**[Preflight](https://preflightlaunch.com)** — An App Store simulator for iOS developers. Preview screenshots, metadata, and keyword fields before you submit — without waiting on review.
+**[Preflight](https://preflightlaunch.com)** is an App Store submission simulator. Preview screenshots, metadata, and keyword fields the way Apple renders them, before you submit.
 
-**[Outpost Digital](https://outpostdigital.org)** — An autonomous AI sales agent (Finn) that runs outreach for missed-call text-back systems targeted at trade businesses. Fully autonomous: finds leads, sends cold emails, follows up, handles replies, and closes.
+## Public Work
 
-## Selected Public Work
+### Agent infrastructure
+
+- [pallium](https://github.com/tszaks/pallium) is a CLI codebase-memory tool for risk, co-change, and decision context across a git repo. Written in Go.
+- [agent-pdf](https://github.com/tszaks/agent-pdf) generates clean PDFs from templates so agents make zero design decisions.
+- [pulse](https://github.com/tszaks/pulse) is self-hosted web analytics with a plain-English API an agent can query.
+- [pixel](https://github.com/tszaks/pixel) does image cutouts, transparent PNGs, recoloring, and Topaz-backed upscaling for agents.
+- [vero-agent-connect](https://github.com/tszaks/vero-agent-connect) is the public connector for the Vero Agent Access API.
 
 ### MCP servers
 
-- [ghub](https://github.com/tszaks/ghub) — Multi-account Gmail with built-in OAuth onboarding
-- [safari-mcp](https://github.com/tszaks/safari-mcp) — Local Safari control, page extraction, and WebDriver screenshots
-- [multimodal-imessage-mcp](https://github.com/tszaks/multimodal-imessage-mcp) — iMessage access with conversation search and attachment handling
-- [outlook-mcp](https://github.com/tszaks/outlook-mcp) — Microsoft Outlook via Graph API with multi-account OAuth
-- [icloud-calendar-mcp](https://github.com/tszaks/icloud-calendar-mcp) — iCloud Calendar CRUD via local macOS
-- [reminders-mcp](https://github.com/tszaks/reminders-mcp) — Apple Reminders integration with full list and reminder management
-- [apple-notes-mcp](https://github.com/tszaks/apple-notes-mcp) — Apple Notes server for local macOS note management
-- [app-store-connect-mcp](https://github.com/tszaks/app-store-connect-mcp) — App Store Connect APIs and release automation
+- [ghub](https://github.com/tszaks/ghub) for multi-account Gmail with built-in OAuth onboarding
+- [outlook-mcp](https://github.com/tszaks/outlook-mcp) for Microsoft Outlook via the Graph API
+- [safari-mcp](https://github.com/tszaks/safari-mcp) for local Safari control, page extraction, and WebDriver screenshots
+- [imessage-mcp](https://github.com/tszaks/imessage-mcp) for iMessage access, conversation search, and attachments
+- [apple-notes-mcp](https://github.com/tszaks/apple-notes-mcp) for local Apple Notes management
+- [reminders-mcp](https://github.com/tszaks/reminders-mcp) for Apple Reminders and list management
+- [icloud-calendar-mcp](https://github.com/tszaks/icloud-calendar-mcp) for iCloud Calendar event CRUD
+- [keynote-mcp](https://github.com/tszaks/keynote-mcp) for reading and redesigning Keynote presentations
+- [app-store-connect-mcp](https://github.com/tszaks/app-store-connect-mcp) for App Store Connect APIs and release automation
 
 ### Developer tooling
 
-- [cli-printing-press](https://github.com/tszaks/cli-printing-press) — AI-first CLI builder that generates the best-in-class CLI for any API
-- [codex-memory](https://github.com/tszaks/codex-memory) — Codebase memory for risk analysis, co-change tracking, and decision context
-- [sourcekit-lsp-marketplace](https://github.com/tszaks/sourcekit-lsp-marketplace) — Swift and Objective-C support for Claude Code via SourceKit-LSP
-- [spotify-cli](https://github.com/tszaks/spotify-cli) — Control Spotify from the terminal via Spotify Web API
+- [codex-sessions](https://github.com/tszaks/codex-sessions) shows which Codex sessions are live on your machine. Go.
+- [spotify-cli](https://github.com/tszaks/spotify-cli) controls Spotify from the terminal via the Web API.
+- [sourcekit-lsp-marketplace](https://github.com/tszaks/sourcekit-lsp-marketplace) adds Swift and Objective-C support to Claude Code via SourceKit-LSP.
+- [server-ai-phone-number](https://github.com/tszaks/server-ai-phone-number) bridges Linux AI agents to iMessage over Mac SSH.
 
 ## Stack
 
-Swift · SwiftUI · TypeScript · Python · SQL · Claude · Railway · Supabase · Xcode
+Swift, SwiftUI, TypeScript, Go, Python, SQL, Claude, Supabase, Vercel, Xcode
 
 ## Contact
 
