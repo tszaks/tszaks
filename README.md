@@ -6,7 +6,7 @@ Most of my active work lives in private repos. The public slice below covers the
 
 ## Products
 
-**[Vero](https://askvero.app)** is a personal finance app for iOS. Connect your accounts through Plaid and ask questions about your money in plain English. Swift/SwiftUI, with Claude handling the reasoning. Live on the App Store.
+**[Vero](https://askvero.app)** is a personal finance app for iOS. Connect your accounts through Plaid and ask questions about your money the way you'd ask a person. Swift/SwiftUI, with Claude handling the reasoning. Live on the App Store.
 
 **[Preflight](https://preflightlaunch.com)** is an App Store submission simulator. Preview screenshots, metadata, and keyword fields the way Apple renders them, before you submit.
 
@@ -16,7 +16,7 @@ Most of my active work lives in private repos. The public slice below covers the
 
 - [pallium](https://github.com/tszaks/pallium) is a CLI codebase-memory tool for risk, co-change, and decision context across a git repo. Written in Go.
 - [agent-pdf](https://github.com/tszaks/agent-pdf) generates clean PDFs from templates so agents make zero design decisions.
-- [pulse](https://github.com/tszaks/pulse) is self-hosted web analytics with a plain-English API an agent can query.
+- [pulse](https://github.com/tszaks/pulse) is self-hosted web analytics with an API built for agents to query directly.
 - [pixel](https://github.com/tszaks/pixel) does image cutouts, transparent PNGs, recoloring, and Topaz-backed upscaling for agents.
 - [vero-agent-connect](https://github.com/tszaks/vero-agent-connect) is the public connector for the Vero Agent Access API.
 
