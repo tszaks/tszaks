@@ -6,7 +6,7 @@ Most of my active work lives in private repos. The public slice below covers the
 
 ## Products
 
-**[Vero](https://askvero.app)** is a personal finance app for iOS. Connect your accounts through Plaid and ask questions about your money the way you'd ask a person. Swift/SwiftUI, with Claude handling the reasoning. Live on the App Store.
+**[Vero](https://askvero.app)** is a personal finance app for iOS. Connect your accounts through Plaid and ask questions about your money the way you'd ask a person. Swift/SwiftUI, with a frontier LLM handling the reasoning. Live on the App Store.
 
 **[Preflight](https://github.com/tszaks/Preflight)** is an open-source App Store review scanner for iOS projects. Install the CLI from npm with `npm install -g preflightlaunch` or view the package at [npmjs.com/package/preflightlaunch](https://www.npmjs.com/package/preflightlaunch).
 
