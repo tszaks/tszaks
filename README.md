@@ -14,7 +14,7 @@ Most of my active work lives in private repos. The public slice below covers the
 
 ### Agent infrastructure
 
-- [pallium](https://github.com/tszaks/pallium) is a CLI codebase-memory tool for risk, co-change, and decision context across a git repo. Written in Go.
+- [pallium](https://github.com/tszaks/pallium) is a local-first control plane for coding agents: deterministic workflows, bounded loops, persistent agent teams, repo intelligence, and session recall, all outside the model context. Go.
 - [agent-pdf](https://github.com/tszaks/agent-pdf) generates clean PDFs from templates so agents make zero design decisions.
 - [pulse](https://github.com/tszaks/pulse) is self-hosted web analytics with an API built for agents to query directly.
 - [pixel](https://github.com/tszaks/pixel) does image cutouts, transparent PNGs, recoloring, and Topaz-backed upscaling for agents.
