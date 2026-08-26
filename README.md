@@ -10,6 +10,10 @@ Most of my active work lives in private repos. The public slice below covers the
 
 **[Preflight](https://github.com/tszaks/Preflight)** is an open-source App Store review scanner for iOS projects. Install the CLI from npm with `npm install -g preflightlaunch` or view the package at [npmjs.com/package/preflightlaunch](https://www.npmjs.com/package/preflightlaunch).
 
+## How I build
+
+**[design-thesis](https://github.com/tszaks/design-thesis)** is the design law behind my products, distilled from everything I've shipped: one accent color that acts, shadow over borders, undo over confirmation dialogs, copy that states facts. It ships in two editions, a README written for people and an [LLM.md](https://github.com/tszaks/design-thesis/blob/main/LLM.md) written for machines. Paste the LLM edition into an AI agent at the start of a session and it builds like I do. The story of how it was distilled is [on my site](https://tylerszakacs.com/articles/i-asked-an-ai-to-read-everything-ive-built-and-write-down-my-taste).
+
 ## Public Work
 
 ### Agent infrastructure
